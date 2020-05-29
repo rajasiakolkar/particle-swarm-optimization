@@ -1,0 +1,17 @@
+-----------------------------------
+			Algorithm PSO
+			-------------
+parameter: 
+	confidenceCoefficent1:0.9
+	confidenceCoefficent2:1.0
+	confidenceCoefficent3:1.0
+	    numberOfSwarms:100
+	numberOfIterations:100
+	         iteration:0
+the shortest path:  3824.0119015256505
+w iteration:        null
+Sequentially cities: 
+25 30 0 40 44 28 43 47 5 19 12 21 4 41 18 
+42 2 8 31 35 49 3 22 24 27 7 33 38 6 36 
+11 37 32 46 1 10 45 29 13 17 9 15 20 48 26 
+39 14 23 34 16 
